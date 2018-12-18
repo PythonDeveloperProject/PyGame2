@@ -4,4 +4,4 @@ pygame.init()
 
 
 
-win= pygame.display.set_mode((500, 500))
+win= pygame.display.set_mode((400, 400))
